@@ -1,5 +1,6 @@
-class MyFirstApp{
+public class MyFirstApp {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.print("Написано однажды, ");
+        System.out.println("работает везде!");
     }
 }
